@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"OCTOPUSINUNFT.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"OCTOPUSINUNFT.sol": {
+			"keccak256": "0x2ac87461b8926fb7ef3c5344d63994293ad62a60395278fc1cf45181bf7d2796",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://612f6b440d27d33cc55fe80c929d9b70999f64f99b84b5a16eff6d13dfb2c86a",
+				"dweb:/ipfs/QmVc9uRTQkqw2EfbrFx243gFMuuevgmsDhwGLDmRUYvGSX"
+			]
+		}
+	},
+	"version": 1
+}
